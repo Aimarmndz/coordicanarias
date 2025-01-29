@@ -56,13 +56,10 @@ Esta guía describe paso a paso cómo instalar, configurar y solucionar problema
 	pid /run/nginx.pid;
 	error_log /var/log/nginx/error.log;
 	include /etc/nginx/modules-enabled/*.conf;
-
-events {
+   events {
         worker_connections 768;
-        # multi_accept on;
-}
-
-http {
+        # multi_accept on;}
+   http {
 
         server {
             listen       80;
@@ -77,6 +74,7 @@ http {
             error_log    /var/log/nginx/example.com/error.log;
         }
    ```
+
 Tendremos que especificar el puerto, en este caso el **80** y las rutas de los logs y del archivo HTML de inicio
 
 2. **Verificar la configuración:**
@@ -179,6 +177,7 @@ Acceder a la IP con el puerto del Nginx muestra la página de inicio de Apache.
         listen 80 default_server;
         listen [::]:80 default_server;
         root /usr/share/nginx/html;
+        }
 ``` 
 Una vez con los puertos bien configurados y las rutas de los HTML, ya podremos ver el HTML de bienvenida de Nginx
 
