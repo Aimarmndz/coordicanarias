@@ -17,3 +17,10 @@ Pincha [aquí](/Nginx/README.md)
 ### Como instalar Apache2
 
 Pincha [aquí](/Apache2/README.md)
+
+---
+
+### Pautas WCAG
+
+Documentación [aquí](/WCAG2.2/README.md)
+Checklist [aquí](/WCAG2.2/checklist.md)
