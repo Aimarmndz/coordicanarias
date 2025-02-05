@@ -1,5 +1,9 @@
 # Historial de versiones
 
+## [0.0.5] - 2025-02-05
+- Nuestro servidor local, amaneció con una perdida de datos importante, toda la información y programación realizada anteriormente. Ha amanecido borrada, sin  logs, ni ningún registro de comandos que lo confirme.
+- Comienzo de la auditoria entera de la web de Coordicanarias con todas su páginas.
+
 ## [0.0.4] - 2025-02-04
 - Documentado instalación al completo del CMS "Wordpress" en nuestro servidor
 - Configuración de Wordpress y prueba de temas accesibles.
