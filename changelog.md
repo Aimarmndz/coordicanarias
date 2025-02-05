@@ -1,5 +1,9 @@
 # Historial de versiones
 
+## [0.0.4] - 2025-02-04
+- Documentado instalación al completo del CMS "Wordpress" en nuestro servidor
+- Configuración de Wordpress y prueba de temas accesibles.
+
 ## [0.0.3] - 2025-01-29
 - Documentado pautas de accesibilidad web **WCAG2.2**
 - Corrección de pequeños errores en la documentación

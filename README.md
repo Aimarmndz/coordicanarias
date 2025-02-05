@@ -4,23 +4,29 @@ Aquí iremos documentando paso a paso todos los procesos informáticos que se ir
 
 ### Como instalar Ubuntu Desktop 24.04 LTS
 
-Pincha [aquí](/Ubuntu24.04LTS/README.md)
+- Pincha [aquí](/Ubuntu24.04LTS/README.md)
 
 ---
 
 ### Como instalar Nginx
 
-Pincha [aquí](/Nginx/README.md)
+- Pincha [aquí](/Nginx/README.md)
 
 ---
 
 ### Como instalar Apache2
 
-Pincha [aquí](/Apache2/README.md)
+- Pincha [aquí](/Apache2/README.md)
 
 ---
 
 ### Pautas WCAG
 
-Documentación [aquí](/WCAG2.2/README.md)
-Checklist [aquí](/WCAG2.2/checklist.md)
+- Documentación [aquí](/WCAG2.2/README.md)
+- Checklist [aquí](/WCAG2.2/checklist.md)
+
+---
+
+### Como instalar Wordpress
+
+- Documentación [aquí](/Wordpress/README.md)
