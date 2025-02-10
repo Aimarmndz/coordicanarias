@@ -36,3 +36,13 @@ Aquí iremos documentando paso a paso todos los procesos informáticos que se ir
 ### Auditoria Web
 
 - Pincha [Aquí](/Auditoría%20Web/README.md)
+
+---
+
+### Conocimientos básicos y previos a la práctica
+
+- ¿Qué es un proxy? [Aquí](/Concepto%20Básicos/¿Qué%20es%20un%20Proxy?.md)
+- Diferencia entre Docker y usar máquinas virtuales [Aquí](/Concepto%20Básicos/Docker%20vs%20Virtual%20Machine.md)
+- Diferencia entre el modelo OSI al TCPIP [Aquí](/Concepto%20Básicos/OSI%20vs%20TCPIP.md)
+- Comparativa entre hipervisores [Aquí](/Concepto%20Básicos/PROMOX%20vs%20OS+VM.md)
+- Diferencia entre SQL y NOSQL [Aquí](/Concepto%20Básicos/SQL%20vs%20NOSQL.md) 

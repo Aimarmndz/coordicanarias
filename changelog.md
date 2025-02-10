@@ -1,5 +1,14 @@
 # Historial de versiones
 
+## [0.0.8] - 2025-02-10
+- Arreglo del formato del repositorio.
+
+## [0.0.7] - 2025-02-10
+- Subida de conceptos básicos y previos de conocimientos.
+
+## [0.0.6] - 2025-02-06
+- Finalización de auditoría de accesibilidad web.
+
 ## [0.0.5] - 2025-02-05
 - Nuestro servidor local, amaneció con una perdida de datos importante, toda la información y programación realizada anteriormente. Ha amanecido borrada, sin  logs, ni ningún registro de comandos que lo confirme.
 - Comienzo de la auditoria entera de la web de Coordicanarias con todas su páginas.
