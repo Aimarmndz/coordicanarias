@@ -1,5 +1,10 @@
 # Historial de versiones
 
+## [0.0.9] - 2025-02-12
+- Implementado una VPN sobre un servidor Ubuntu Server 24.10.
+- Documentado paso a paso la instalación y configuración.
+- Iniciada la búsqueda de Capture the Flag (CTF) alojados en entornos Docker para análisis de vulnerabilidades.
+
 ## [0.0.8] - 2025-02-10
 - Arreglo del formato del repositorio.
 
