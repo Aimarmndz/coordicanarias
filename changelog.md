@@ -1,5 +1,8 @@
 # Historial de versiones
 
+## [0.1.0] - 2025-02-13
+- Redactada la documentación de GIT
+
 ## [0.0.9] - 2025-02-12
 - Implementado una VPN sobre un servidor Ubuntu Server 24.10.
 - Documentado paso a paso la instalación y configuración.
