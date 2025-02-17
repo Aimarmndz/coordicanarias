@@ -1,5 +1,8 @@
 # Historial de versiones
 
+## [0.1.1] - 2025-02-17
+- Documentado conceptos básicos de redes para realizar las prácticas de CISCO
+
 ## [0.1.0] - 2025-02-13
 - Redactada la documentación de GIT
 
